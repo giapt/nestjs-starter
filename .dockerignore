@@ -1,0 +1,16 @@
+.env*
+
+.git*
+
+node_modules
+
+dist
+
+.dockerignore
+Dockerfile
+
+admin/venv
+admin/*__pycache__
+admin/.vscode
+
+devops
